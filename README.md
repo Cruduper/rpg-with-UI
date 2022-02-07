@@ -2,7 +2,7 @@
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application} [SITE LINK] https://cruduper.github.io/!!!!!insert site here!!!!!_
+#### _{Brief description of application} [SITE LINK](https://cruduper.github.io/rpg-with-ui) site here!!!!!_
 
 ## Technologies Used
 
