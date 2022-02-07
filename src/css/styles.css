@@ -1,0 +1,22 @@
+.imgCharactersDynamic {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.row  {
+  /* border: 2px solid black; */
+  width:auto;
+  height:auto;
+}
+
+.col-  {
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+}
+
+.container  {
+  text-align: center;
+  /* margin: auto; */
+}
